@@ -1,0 +1,5 @@
+Credentials cache: API:DFFC09C5-350D-47A3-A674-3E5884D4044F
+        Principal: aerragha@1337.MA
+
+  Issued                Expires               Principal
+Jul 19 15:13:51 2018  Jul 20 15:13:51 2018  krbtgt/1337.MA@1337.MA
